@@ -1,3 +1,3 @@
-# RISC-ALL
+# MiniTP
 
-This is a repo created to document my path to design my own instruction set architecture.
+This is a repo created to document my path to design a better transport protocol.
